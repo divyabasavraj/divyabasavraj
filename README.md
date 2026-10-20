@@ -1,7 +1,7 @@
 # Hi, I'm Divya Tejaswi B 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=Machine+Learning+%26+AI+Engineer+in+the+making;MSc+Big+Data+Analytics+%40+St.+Joseph's+University;Medical+imaging+%C2%B7+GNNs+%C2%B7+RAG+%C2%B7+forecasting;From+raw+data+to+deployed+models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=Machine+Learning+%26+AI+Engineer+in+the+making;Learning+by+building%2C+one+model+at+a+time;Medical+imaging+%C2%B7+GNNs+%C2%B7+RAG+%C2%B7+forecasting;From+raw+data+to+deployed+models" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,11 +10,26 @@
 
 ## 🚀 About me
 
-I'm doing an MSc in Big Data Analytics at St. Joseph's University, Bengaluru, after a BSc in
-Mathematics and Physics. I build machine-learning systems end to end, from messy data and
-model training to an app someone can actually use. My work so far covers deep learning in
-PyTorch (CNNs, vision-language models, graph neural networks), gradient boosting and
-forecasting, and LLM apps with retrieval and guardrails.
+I learn best by building. Most of what I know about machine learning came from picking a real
+problem, getting stuck, and working out why. I like taking a project all the way: from messy
+data and model training to an app someone can actually use, plus an honest write-up of what
+didn't work.
+
+### 💡 What I love working on
+- **AI that helps people directly.** Reading knee MRIs, describing the world aloud for blind and
+  low-vision users, and other places where a model's output changes someone's day.
+- **Deep learning that has to earn its keep.** CNNs, vision-language models and graph neural
+  networks, trained on limited compute and judged on held-out data, not on vibes.
+- **LLM apps you can trust.** Retrieval with citations, guardrails against prompt injection, and
+  evals that run in CI.
+- **Turning predictions into decisions.** A forecast is only useful once it becomes a reorder
+  point, a launch plan or a clear recommendation.
+
+### 📚 What I'm learning right now
+- Medical imaging: working with weak labels, 3D and 2.5D models, and validation that holds up on new data
+- Evaluating LLM systems properly: test sets, failure modes, and measuring the guardrails themselves
+- Ensembling and experiment design when GPU time is limited
+- Shipping models well: APIs, containers and small, fast models that run in the browser
 
 ## 🧪 Featured projects
 
