@@ -1,7 +1,7 @@
 # Hi, I'm Divya Tejaswi B 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=Machine+Learning+%26+AI+Engineer+in+the+making;Learning+by+building%2C+one+model+at+a+time;Medical+imaging+%C2%B7+GNNs+%C2%B7+RAG+%C2%B7+forecasting;From+raw+data+to+deployed+models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&repeat=true&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=Machine+Learning+%26+AI+Engineer+in+the+making;Learning+by+building%2C+one+model+at+a+time;Medical+imaging+%C2%B7+GNNs+%C2%B7+RAG+%C2%B7+forecasting;From+raw+data+to+deployed+models" alt="Typing SVG" />
 </div>
 
 <p align="center">
